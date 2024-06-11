@@ -29,3 +29,5 @@
 ## To terminate the background process use,
 
 `$kill -TERM <pid>`
+
+## Example log file <https://github.com/joker-11011/log_files/blob/285fb54002ab49a5ca27e06a12e3551d8977c5f3/python_output.log>
