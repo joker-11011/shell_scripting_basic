@@ -1,5 +1,5 @@
 # shell_scripting_basic
-[![nvm version](https://github.com/joker-11011/shell_scripting_basic/releases/tag/v0.1.0-alpha)][4]
+
 1. ## logging_script.py
    - Generates a random number between 1 to 30 (both inclusive).
    - If random munber generated is between 1 to 10, it writes `logging.error`.
