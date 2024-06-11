@@ -16,7 +16,9 @@
       
 ## Steps to execute the program
 
-`$chmod +x script.sh`\
+```bash
+$chmod +x script.sh
+```\
 `$./script.sh`
 
 ## This will execute the logging_script.py in background (only if it's not initialized earlier).
