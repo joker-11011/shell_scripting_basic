@@ -1,5 +1,5 @@
 # shell_scripting_basic
-
+[![nvm version](https://img.shields.io/badge/version-v0.39.7-yellow.svg)][4]
 1. ## logging_script.py
    - Generates a random number between 1 to 30 (both inclusive).
    - If random munber generated is between 1 to 10, it writes `logging.error`.
