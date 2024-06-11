@@ -15,7 +15,7 @@
    - Prints number of INFO and ERROR lines along with the sum of all the random numbers generated for it respectively.
       
 ## Steps to execute the program
-   ### execute following commands in terminal
+   ### Execute following commands in terminal
    
 ```bash
 chmod +x script.sh
