@@ -15,21 +15,30 @@
    - Prints number of INFO and ERROR lines along with the sum of all the random numbers generated for it respectively.
       
 ## Steps to execute the program
-
+   ### execute following commands in terminal
+   
 ```bash
-$chmod +x script.sh
+chmod +x script.sh
 ```
-`$./script.sh`
+```bash
+./script.sh
+```
 
 ## This will execute the logging_script.py in background (only if it's not initialized earlier).
 
 ## To get count of INFO and ERROR lines with respective sum,
 
-`$chmod +x log_search.sh`\
-`$./log_search.sh`
+```bash
+chmod +x log_search.sh
+```
+```bash
+./log_search.sh
+```
 
 ## To terminate the background process use,
 
-`$kill -TERM <pid>`
+```bash
+kill -TERM <pid>
+```
 
 ## [Example log file](https://github.com/joker-11011/log_files/blob/285fb54002ab49a5ca27e06a12e3551d8977c5f3/python_output.log)
