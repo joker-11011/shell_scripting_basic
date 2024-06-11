@@ -19,13 +19,13 @@
 `$chmod +x script.sh`\
 `$./script.sh`
 
-## This will execute the logging_script.py in background only if it's not initialized earlier
+## This will execute the logging_script.py in background (only if it's not initialized earlier).
 
 ## To get count of INFO and ERROR lines with respective sum,
 
 `$chmod +x log_search.sh`\
 `$./log_search.sh`
 
-## To terminate the background process use
+## To terminate the background process use,
 
 `$kill -TERM <pid>`
