@@ -1,4 +1,6 @@
 # shell_scripting_basic
+![GitHub Tag](https://img.shields.io/github/v/tag/joker-11011/shell_scripting_basic)
+
 
 1. ## logging_script.py
    - Generates a random number between 1 to 30 (both inclusive).
