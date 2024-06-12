@@ -1,5 +1,5 @@
 # shell_scripting_basic
-![GitHub Tag](https://img.shields.io/github/v/tag/joker-11011/shell_scripting_basic) ![GitHub License](https://img.shields.io/github/license/joker-11011/shell_scripting_basic) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![GitHub Tag](https://img.shields.io/github/v/tag/joker-11011/shell_scripting_basic) ![GitHub License](https://img.shields.io/github/license/joker-11011/shell_scripting_basic) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
 1. ## logging_script.py
    - Generates a random number between 1 to 30 (both inclusive).
