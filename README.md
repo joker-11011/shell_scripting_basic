@@ -1,6 +1,4 @@
 # shell_scripting_basic
-![Discord](https://discord.com/api/guilds/1250359263948181596/widget.json)
-
 
 1. ## logging_script.py
    - Generates a random number between 1 to 30 (both inclusive).
