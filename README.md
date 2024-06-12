@@ -1,5 +1,6 @@
 # shell_scripting_basic
-![GitHub Tag](https://img.shields.io/github/v/tag/joker-11011/shell_scripting_basic)
+![GitHub Tag](https://img.shields.io/github/v/tag/joker-11011/shell_scripting_basic) ![GitHub Sponsors](https://img.shields.io/github/sponsors/joker-11011)
+
 
 
 1. ## logging_script.py
