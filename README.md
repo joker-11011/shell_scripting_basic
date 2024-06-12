@@ -1,5 +1,5 @@
 # shell_scripting_basic
-![Discord](https://img.shields.io/discord/:1250359263948181596)
+![Discord](https://discord.com/api/guilds/1250359263948181596/widget.json)
 
 
 1. ## logging_script.py
