@@ -1,4 +1,6 @@
 # shell_scripting_basic
+![Discord](https://img.shields.io/discord/:1250359263948181596)
+
 
 1. ## logging_script.py
    - Generates a random number between 1 to 30 (both inclusive).
